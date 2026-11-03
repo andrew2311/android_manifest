@@ -1,5 +1,5 @@
 <manifest>
     <remote name="rs" fetch="https://gitbud.epam.com/rec-aaos/"/>
     <project path="vendor/prebuilts/renesas" name="gen5-prebuilts" remote="rs" revision="c7cb672c4e37d4096a1d6f5106e5f6bf88723522"/> <!-- android-fw-sdk-4.36 -->
-    <project path="vendor/prebuilts/imagination" name="ddk-um-bin" remote="rs" revision="542b634b4c497f28e0a78ecf36c75f9d03d9a3cd"/> <!-- 26.1_7036548_RTM2-android-17-main -->
+    <project path="vendor/prebuilts/imagination" name="ddk-um-bin" remote="rs" revision="2de0ae2cecd48b4a8ac21ae25e4ed545f8be59f5"/> <!-- 26.1_7036548_RTM2-android-17-main -->
 </manifest>
